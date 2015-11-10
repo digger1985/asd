@@ -1,0 +1,8 @@
+c:\users\ksenia\documents\visual studio 2013\Projects\AreaTriangle\AreaTriangle\bin\Debug\AreaTriangle.exe.config
+c:\users\ksenia\documents\visual studio 2013\Projects\AreaTriangle\AreaTriangle\bin\Debug\AreaTriangle.exe
+c:\users\ksenia\documents\visual studio 2013\Projects\AreaTriangle\AreaTriangle\bin\Debug\AreaTriangle.pdb
+c:\users\ksenia\documents\visual studio 2013\Projects\AreaTriangle\AreaTriangle\obj\Debug\AreaTriangle.exe
+c:\users\ksenia\documents\visual studio 2013\Projects\AreaTriangle\AreaTriangle\obj\Debug\AreaTriangle.pdb
+C:\Users\Ksenia\Documents\AreaTriangle\AreaTriangle\bin\Debug\AreaTriangle.exe.config
+C:\Users\Ksenia\Documents\AreaTriangle\AreaTriangle\obj\Debug\AreaTriangle.exe
+C:\Users\Ksenia\Documents\AreaTriangle\AreaTriangle\obj\Debug\AreaTriangle.pdb
